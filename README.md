@@ -10,10 +10,10 @@ I have expertise in the following:
 
 - Programming Languages: Python,SQL 🎓
 - Python Libraries: Pandas, NumPy,Matplotlib,Seaborn,Scikit-Learn etc. 🐍
-- BI Tools: Tableau, Power BI, Excel 📈
+- BI Tools: Power BI, Excel 📈
 - Platforms: PyCharm, Jupyter Notebook, Visual Studio Code, Intellij IDEA
-● Soft Skills: Problem Solving, Team Work, Analytical Mindset, Excellent communication.
-● Other Skills : EDA with Pandas, Statistical Analysis,Data Preprocessing,Statistics,Probability.
+- Soft Skills: Problem Solving, Team Work, Analytical Mindset, Excellent communication.
+-Other Skills : EDA with Pandas, Statistical Analysis,Data Preprocessing,Statistics,Probability.
 
   
 
