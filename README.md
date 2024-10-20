@@ -10,7 +10,7 @@ I'm a passionate Data Analyst from India! Here are some things about me:
 - [📫 Contact Info](#-contact-me)
   ## 🛠️ My Skills
 I have expertise in the following:
-- Programming Languages: Python, Java, R, SQL 🎓
+- Programming Languages: Python, SQL 🎓
 - Python Libraries: Pandas, NumPy,Matplotlib,Seaborn,Scikit-Learn etc. 🐍
 - BI Tools: Power BI, Excel 📈
 - Platforms: PyCharm, Jupyter Notebook, Visual Studio Code, Intellij IDEA
