@@ -21,7 +21,7 @@ I have expertise in the following:
   ## 🌱 Certifications and Credentials
 I have accomplished the following credentials:
 🔘 Check out my credentials in learning journey:
-  - [Credly](https://www.credly.com/users/damodhar-jangam.7b2d1e73/badges)
+  - [MY SQL Basics](https://www.mygreatlearning.com/certificate/QTAZELNJ)
   - [Python for Data Analysis Full Boot Camp](https://www.udemy.com/certificate/UC-5a79cb02-e525-4c3f-b5af-dfe93529874b/)
   - [Python for Beginners Live Course](https://www.mygreatlearning.com/certificate/FLTPKHCK)
   - [LinkedIn](www.linkedin.com/in/kari-mahesh-babu-54980a20a)
