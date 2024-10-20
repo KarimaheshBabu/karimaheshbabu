@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maheshbabukari29@gmail.com)](mailto:maheshbabukari29@gmail.com)
 
 # Hello, I'm Kari Mahesh Babu! 👋
-I'm a passionate data engineer from India! Here are some things about me:
+I'm a passionate Data Analyst from India! Here are some things about me:
 ## Index 📑
 - [🛠️ My Skills](#%EF%B8%8F-my-skills)
 - [🌱 Certifications and Credentials](#-certifications-and-credentials)
