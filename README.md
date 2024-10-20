@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kari-mahesh-babu-54980a20a)](www.linkedin.com/in/kari-mahesh-babu-54980a20a)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kari-mahesh-babu-54980a20a)](https://www.linkedin.com/in/kari-mahesh-babu-54980a20a)
 [![Mail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maheshbabukari29@gmail.com)](mailto:maheshbabukari29@gmail.com)
 
 # Hello, I'm Kari Mahesh Babu  👋
@@ -21,7 +21,7 @@ I have accomplished the following credentials:
   - [Python for Data Analysis Full Boot Camp](https://www.udemy.com/certificate/UC-5a79cb02-e525-4c3f-b5af-dfe93529874b/)
   - [Python for Beginners Live Course](https://www.mygreatlearning.com/certificate/FLTPKHCK)
   -  [MY SQL Basics](https://www.mygreatlearning.com/certificate/QTAZELNJ)
-  - [LinkedIn](www.linkedin.com/in/kari-mahesh-babu-54980a20a)
+  - [LinkedIn](https://www.linkedin.com/in/kari-mahesh-babu-54980a20a)
 
 
 
