@@ -26,13 +26,13 @@ model.
 ● Managed data integrity by handling missing values and encoding categorical variables,enhancing quality by 33%.
 ● Conducted experiments with both classification and regression algorithms to identify the most suitable approach.
 ● Identified and comprehended key factors influencing academic performance through thorough analysis.
-## Credit Card Fraud Detection | LINK September 23- October 2023
+## Credit Card Fraud Detection 
 ● Developed and fine-tuned a logistic regression-based machine learning model achieving an 87% accuracy rate in predicting
 credit card fraud.
 ● Minimized false positives by 16% through rigorous feature engineering and hyperparameter tuning processes.
 ● Implemented under-sampling and ensemble techniques to address class imbalance, leading to 15% improved performance.
 ● Successfully mitigated fraudulent transactions while optimizing model efficiency by 23% and accuracy by 6%.
-## Heart Disease Prediction | LINK July 23- August 2023
+## Heart Disease Prediction 
 ● Orchestrated the development of a Logit model to predict heart disease, achieving an impressive accuracy rate of 91% and
 surpassing industry benchmarks.
 ● Spearheaded the implementation of HIPAA-compliant data encryption protocols across all healthcare solutions, decreasing
