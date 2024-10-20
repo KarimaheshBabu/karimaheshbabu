@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kari-mahesh-babu-54980a20a)](www.linkedin.com/in/kari-mahesh-babu-54980a20a)
 [![Mail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maheshbabukari29@gmail.com)](mailto:maheshbabukari29@gmail.com)
 
-# Hello, I'm Kari Mahesh Babu! 👋
+# Hello, I'm Kari Mahesh Babu  👋
 I'm a passionate Data Analyst from India! Here are some things about me:
 ## Index 📑
 - [🛠️ My Skills](#%EF%B8%8F-my-skills)
