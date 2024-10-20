@@ -1,7 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamodhar918&count_bg=%2379C83D&title_bg=%23555555&icon=steem.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/damodhar918)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damodhar918/)](https://www.linkedin.com/in/damodhar918/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:damodhar918@outlook.com)](mailto:damodhar918@outlook)
-# Hello, I'm Damodhar! 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamodhar918&count_bg=%2379C83D&title_bg=%23555555&icon=steem.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/KarimaheshBabu)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kari-mahesh-babu-54980a20a)](www.linkedin.com/in/kari-mahesh-babu-54980a20a)
+[![Mail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maheshbabukari29@gmail.com)](mailto:maheshbabukari29@gmail.com)
 
 # Hello, I'm Kari Mahesh Babu! 👋
 I'm a passionate data engineer from India! Here are some things about me:
