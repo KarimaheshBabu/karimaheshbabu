@@ -60,7 +60,7 @@ data breach incidents by 40% and ensuring patient privacy and security.
 ● Enhanced healthcare outcomes by 26% through accurate prediction of heart disease, positively impacting patient well-being.
 
 ## 📫 Contact Me
-If you are interested in chat with me, you can find me on [LinkedIn](www.linkedin.com/in/kari-mahesh-babu-54980a20a) or email me at maheshbabukari29@gmail.com.
+If you are interested in chat with me, you can find me on [LinkedIn](https://www.linkedin.com/in/kari-mahesh-babu-54980a20a/) or email me at maheshbabukari29@gmail.com.
 
 Thanks for checking out my profile! 😊
 
