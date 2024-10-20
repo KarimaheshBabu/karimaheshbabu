@@ -20,6 +20,13 @@ I have expertise in the following:
 - Other Skills : EDA with Pandas, Statistical Analysis,Data Preprocessing,Statistics,Probability.
   ## 🌱 Certifications and Credentials
 I have accomplished the following credentials:
+
+
+
+
+## 🏗️ Projects
+Here are some of my notable projects:
+
 ## Student Performance Prediction 
 ● Achieved a 96% accuracy rate in forecasting student academic performance by developing and deploying a machine learning
 model.
@@ -39,6 +46,11 @@ surpassing industry benchmarks.
 data breach incidents by 40% and ensuring patient privacy and security.
 ● Demonstrated commitment to ethical data practices while contributing to the development of data-driven healthcare solutions.
 ● Enhanced healthcare outcomes by 26% through accurate prediction of heart disease, positively impacting patient well-being.
+
+## 📫 Contact Me
+If you are interested in chat with me, you can find me on [LinkedIn](www.linkedin.com/in/kari-mahesh-babu-54980a20a) or email me at maheshbabukari29@gmail.com.
+
+Thanks for checking out my profile! 😊
 
   
 
