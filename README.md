@@ -5,7 +5,7 @@
 I'm a passionate Data Analyst from India! Here are some things about me:
 ## Index 📑
 - [🛠️ My Skills](#%EF%B8%8F-my-skills)
-- [🌱 Certifications and Credentials](#-certifications-and-credentials)
+- [🌱 Certifications and Credentials](#-certifications-and-credentials.
 - [🏗️ Projects](#%EF%B8%8F-projects)
 - [📫 Contact Info](#-contact-me)
   ## 🛠️ My Skills
