@@ -32,19 +32,27 @@ Here are some of my notable projects:
 # Blinkit Sales Analysis | Excel Dashboard Project
 
 Project Description:
+
 Developed a comprehensive sales dashboard for Blinkit using Excel, focusing on analyzing sales trends, customer preferences, and store performance. The project provided data-driven insights to optimize inventory, marketing strategies, and operational decisions.
 
 Key Responsibilities:
 ✅ Data Collection & Cleaning: Gathered sales data, removed duplicates, handled missing values, and formatted data for analysis.
+
 ✅ Data Analysis & Visualization: Utilized DAX functions, calculated columns, pivot tables, and charts for insightful visualizations.
+
 ✅ KPI Tracking & Insights: Analyzed key metrics such as Total Sales ($1.20M), Average Sales ($141), Items Sold (8,523), and Customer Rating (4.0).
+
 ✅ Business Insights & Recommendations: Identified top-performing categories, store trends, and customer preferences to improve sales performance.
+
 ✅ Dashboard Creation: Designed an interactive Excel dashboard to present insights clearly for business decision-making.
 
 Key Achievements:
 ✔️ Identified that low-fat items contribute 64.6% of total sales.
+
 ✔️ Recognized Tier 3 cities as high-performing sales regions.
+
 ✔️ Recommended inventory optimization and marketing strategies to boost sales.
+
 ✔️ Improved business decision-making by providing a data-driven approach.
 
 📌 Tools Used: Excel (Pivot Tables, Power Query, DAX), Data Cleaning, Data Visualization
