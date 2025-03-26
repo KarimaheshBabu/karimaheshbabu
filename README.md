@@ -29,15 +29,25 @@ I have accomplished the following credentials:
 ## 🏗️ Projects
 Here are some of my notable projects:
 
-## Student Performance Prediction 
-● Achieved a 96% accuracy rate in forecasting student academic performance by developing and deploying a machine learning
-model.
+# Blinkit Sales Analysis | Excel Dashboard Project
 
-● Managed data integrity by handling missing values and encoding categorical variables,enhancing quality by 33%.
+Project Description:
+Developed a comprehensive sales dashboard for Blinkit using Excel, focusing on analyzing sales trends, customer preferences, and store performance. The project provided data-driven insights to optimize inventory, marketing strategies, and operational decisions.
 
-● Conducted experiments with both classification and regression algorithms to identify the most suitable approach.
+Key Responsibilities:
+✅ Data Collection & Cleaning: Gathered sales data, removed duplicates, handled missing values, and formatted data for analysis.
+✅ Data Analysis & Visualization: Utilized DAX functions, calculated columns, pivot tables, and charts for insightful visualizations.
+✅ KPI Tracking & Insights: Analyzed key metrics such as Total Sales ($1.20M), Average Sales ($141), Items Sold (8,523), and Customer Rating (4.0).
+✅ Business Insights & Recommendations: Identified top-performing categories, store trends, and customer preferences to improve sales performance.
+✅ Dashboard Creation: Designed an interactive Excel dashboard to present insights clearly for business decision-making.
 
-● Identified and comprehended key factors influencing academic performance through thorough analysis.
+Key Achievements:
+✔️ Identified that low-fat items contribute 64.6% of total sales.
+✔️ Recognized Tier 3 cities as high-performing sales regions.
+✔️ Recommended inventory optimization and marketing strategies to boost sales.
+✔️ Improved business decision-making by providing a data-driven approach.
+
+📌 Tools Used: Excel (Pivot Tables, Power Query, DAX), Data Cleaning, Data Visualization
 
 ## Credit Card Fraud Detection 
 ● Developed and fine-tuned a logistic regression-based machine learning model achieving an 87% accuracy rate in predicting
