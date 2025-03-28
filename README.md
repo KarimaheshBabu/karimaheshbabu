@@ -65,8 +65,11 @@ This project demonstrates my ability to transform raw data into actionable insig
 
 # Optimization of Bus Ticketing Demand and Forecasting
 ● Developed a Power BI dashboard to analyze and predict demand fluctuations using time series models (ARIMA, SARIMA, LSTM). 
-● Implemented SQL-based ETL pipelines to automate data preprocessing, reducing manual effort by 30%. 
+
+● Implemented SQL-based ETL pipelines to automate data preprocessing, reducing manual effort by 30%.
+
 ● Achieved a Mean Absolute Percentage Error (MAPE) of <10%, improving demand prediction accuracy. 
+
 ● Visualized actual vs. forecasted revenue trends using Power BI to optimize scheduling and resource allocation.
 
 ## Heart Disease Prediction 
