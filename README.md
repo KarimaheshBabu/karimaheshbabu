@@ -10,12 +10,12 @@ I'm a passionate Data Analyst from India! Here are some things about me:
 - [📫 Contact Info](#-contact-me)
   ## 🛠️ My Skills
 I have expertise in the following:
-- Programming Languages:Python, SQL 🎓
-- Python Libraries: Pandas, NumPy,Matplotlib,Seaborn,Scikit-Learn etc. 🐍
-- BI Tools: Power BI, Excel 📈
-- Platforms: PyCharm, Jupyter Notebook, Visual Studio Code, Intellij IDEA
-- Soft Skills: Problem Solving, Team Work, Analytical Mindset, Excellent communication.
-- Other Skills : EDA with Pandas, Statistical Analysis,Data Preprocessing,Statistics,Probability.
+● Data Analysis: SQL, Power BI, Python, Excel 
+● Data Visualization: Power BI, Tableau, DAX, Dashboards 
+● Statistical Analysis: Hypothesis Testing, Regression, Forecasting 
+● Database Management: SQL Queries, Joins, Indexing, Data Warehousing 
+● Tools: Power Query, Pandas, Numpy, Scikit-learn 
+● Cloud Platforms: Microsoft Azure (Synapse Analytics, Data Factory)
 ## 🌱 Certifications and Credentials
 I have accomplished the following credentials:
   - [Python for Data Analysis Full Boot Camp](https://www.udemy.com/certificate/UC-5a79cb02-e525-4c3f-b5af-dfe93529874b/)
