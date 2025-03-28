@@ -63,15 +63,12 @@ Tools & Technologies:
 
 This project demonstrates my ability to transform raw data into actionable insights and create data-driven solutions for business growth. 🚀
 
-## Credit Card Fraud Detection 
-● Developed and fine-tuned a logistic regression-based machine learning model achieving an 87% accuracy rate in predicting
-credit card fraud.
+# Optimization of Bus Ticketing Demand and Forecasting
+● Developed a Power BI dashboard to analyze and predict demand fluctuations using time series models (ARIMA, SARIMA, LSTM). 
+● Implemented SQL-based ETL pipelines to automate data preprocessing, reducing manual effort by 30%. 
+● Achieved a Mean Absolute Percentage Error (MAPE) of <10%, improving demand prediction accuracy. 
+● Visualized actual vs. forecasted revenue trends using Power BI to optimize scheduling and resource allocation.
 
-● Minimized false positives by 16% through rigorous feature engineering and hyperparameter tuning processes.
-
-● Implemented under-sampling and ensemble techniques to address class imbalance, leading to 15% improved performance.
-
-● Successfully mitigated fraudulent transactions while optimizing model efficiency by 23% and accuracy by 6%.
 ## Heart Disease Prediction 
 ● Orchestrated the development of a Logit model to predict heart disease, achieving an impressive accuracy rate of 91% and
 surpassing industry benchmarks.
