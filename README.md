@@ -30,38 +30,25 @@ I have accomplished the following credentials:
 Here are some of my notable projects:
 
 # Blinkit Sales Analysis | Excel Dashboard Project
+● Designed an interactive Excel dashboard to analyze Blinkit’s sales trends, store performance, and customer preferences. 
 
-Project Overview:
+● Cleaned and transformed sales data using Power Query, removing duplicates and handling missing values. 
 
-Developed a dynamic sales dashboard for Blinkit using Excel, analyzing key business metrics to optimize inventory, marketing, and sales strategies.
+● Implemented DAX functions, PivotTables, and calculated columns to derive key business insights. 
 
-Key Responsibilities:
+● Analyzed 8,523+ transactions to identify that low-fat items contribute 64.6% of total sales. 
 
-✔ Data Cleaning & Preparation: Processed raw sales data, removed duplicates, handled missing values, and standardized formats.
+● Determined that Fruits, Vegetables, and Snack Foods are the top-selling categories. 
 
-✔ Data Analysis & Insights: Used Pivot Tables, Power Query, and DAX functions to analyze sales trends, customer preferences, and store performance.
+● Found that stores established in 2018 generate the highest revenue. 
 
-✔ Dashboard Creation: Designed an interactive Excel dashboard with key metrics and visualizations for business decision-making.
+● Observed that Tier 3 cities and medium-sized stores drive the majority of sales.
 
-✔ KPI Tracking: Monitored Total Sales ($1.20M), Average Sales ($141), Items Sold (8,523), and Customer Rating (4.0).
+● Provided actionable recommendations, including optimizing stock and marketing for high-demand categories. 
 
-✔ Business Recommendations: Identified high-performing products, top-selling store locations, and strategies to enhance sales and customer satisfaction.
+● Suggested strategic expansion in Tier 3 cities to enhance revenue growth. 
 
-
-Key Achievements:
-🎯 Increased visibility into sales performance by segmenting data based on item type, store size, and region.
-
-🎯 Discovered that low-fat items contribute 64.6% of total sales, leading to optimized inventory decisions.
-
-🎯 Recognized Tier 3 cities as the top-performing regions, driving strategic marketing efforts.
-
-🎯 Enhanced decision-making with a visually compelling dashboard, making insights actionable for stakeholders.
-
-Tools & Technologies:
-
-📊 Excel (Pivot Tables, Power Query, DAX) | Data Visualization | Sales Analysis
-
-This project demonstrates my ability to transform raw data into actionable insights and create data-driven solutions for business growth. 🚀
+● Proposed measures to improve customer satisfaction and boost ratings above 4.0.
 
 # Optimization of Bus Ticketing Demand and Forecasting
 ● Developed a Power BI dashboard to analyze and predict demand fluctuations using time series models (ARIMA, SARIMA, LSTM). 
