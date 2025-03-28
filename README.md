@@ -56,6 +56,20 @@ Here are some of my notable projects:
 
 ● Proposed measures to improve customer satisfaction and boost ratings above 4.0.
 
+# Power BI Sales Analytics Dashboard 
+
+● Developed a comprehensive Power BI dashboard to analyze sales trends, product insights, and regional performance. 
+
+● Extracted sales & shipment data, handled missing values, removed duplicates, and merged tables using a Star Schema.
+
+● Created DAX measures, calculated columns, and KPIs for revenue trends, product sales, and regional insights. 
+
+● Designed interactive visualizations using line charts, bar/pie charts, maps, and tables with dynamic filters & slicers.
+
+● Published on Power BI Service, optimized DAX queries, and integrated real-time data updates. 
+
+● Enhanced decision-making, identified high-performing products/regions, and improved sales efficiency.
+
 # Optimization of Bus Ticketing Demand and Forecasting
 ● Developed a Power BI dashboard to analyze and predict demand fluctuations using time series models (ARIMA, SARIMA, LSTM). 
 
