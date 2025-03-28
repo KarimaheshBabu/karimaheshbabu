@@ -59,16 +59,6 @@ Here are some of my notable projects:
 
 ● Visualized actual vs. forecasted revenue trends using Power BI to optimize scheduling and resource allocation.
 
-## Heart Disease Prediction 
-● Orchestrated the development of a Logit model to predict heart disease, achieving an impressive accuracy rate of 91% and
-surpassing industry benchmarks.
-
-● Spearheaded the implementation of HIPAA-compliant data encryption protocols across all healthcare solutions, decreasing
-data breach incidents by 40% and ensuring patient privacy and security.
-
-● Demonstrated commitment to ethical data practices while contributing to the development of data-driven healthcare solutions.
-
-● Enhanced healthcare outcomes by 26% through accurate prediction of heart disease, positively impacting patient well-being.
 
 ## 📫 Contact Me
 If you are interested in chat with me, you can find me on [LinkedIn](https://www.linkedin.com/in/kari-mahesh-babu-54980a20a/) or email me at maheshbabukari29@gmail.com.
