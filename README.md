@@ -10,6 +10,7 @@ I'm a passionate Data Analyst from India! Here are some things about me:
 - [📫 Contact Info](#-contact-me)
   ## 🛠️ My Skills
 I have expertise in the following:
+
 ● Data Analysis: SQL, Power BI, Python, Excel 
 
 ● Data Visualization: Power BI, Tableau, DAX, Dashboards 
