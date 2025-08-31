@@ -3,6 +3,15 @@
 
 # Hello, I'm Kari Mahesh Babu  👋
 I'm a passionate Data Analyst from India! Here are some things about me:
+
+I am a Process Associate – Data Analyst at Genpact with experience in managing reports, analyzing business data, and building dashboards that support operational and strategic decision-making. My role involves preparing daily, weekly, and monthly reports, identifying data trends, and providing actionable insights to stakeholders.
+
+I work with Power BI, SQL, Python, and Excel to clean, transform, and visualize data, while also contributing to process optimization and SLA tracking. I am skilled in creating interactive dashboards, writing SQL queries, and presenting insights that help improve efficiency.
+
+In addition, I have foundational exposure to Azure Data Services (Data Factory, SQL Database, Synapse) and ETL workflows, which strengthens my ability to work with cloud-based data solutions.
+
+I am passionate about Business Intelligence, Data Visualization, and Cloud Analytics, and I aim to grow into an Azure Data Engineer & BI Specialist delivering data-driven solutions for global enterprises.
+
 ## Index 📑
 - [🛠️ My Skills](#%EF%B8%8F-my-skills)
 - [🌱 Certifications and Credentials](#-certifications-and-credentials)
